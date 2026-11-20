@@ -1,5 +1,6 @@
 {
     "name": "pro67 3000 delcat duende",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
